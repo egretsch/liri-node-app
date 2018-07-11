@@ -1,5 +1,5 @@
 {
-  "name": "assignment10",
+  "name": "liri-node-app",
   "version": "1.0.0",
   "description": "",
   "main": "liri.js",
@@ -13,5 +13,14 @@
     "node-spotify-api": "^1.0.7",
     "request": "^2.87.0",
     "twitter": "^1.7.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egretsch/liri-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/egretsch/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/egretsch/liri-node-app#readme"
 }
