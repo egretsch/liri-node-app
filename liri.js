@@ -140,20 +140,9 @@ function doWhat() {
         if(error){
             throw error;
         } 
-
         let commands = data.split(",");
-
-        var commandArray = [];
-
-        console.log(commands);
-        for (let i = 0; i < array.length; i++) {
-            if(i )
-            
-        }
-        
-
-            // userComand(commands[0], commands[1]);
-    
+        userComand(commands[0], commands[1]);
+        userComand(commands[2], commands[3]);
 });  
 
 }
